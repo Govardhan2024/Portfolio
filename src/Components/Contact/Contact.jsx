@@ -28,7 +28,7 @@ const Contact = () => {
           <input type='text' placeholder='Enter your Email' name='Email'/>
           <label htmlFor=''> Write Your meassage</label>
           <textarea name='meassege' rows="8" placeholder='Enter Your meassege'></textarea>
-          <button type='submit' className='btn-4'>Submit Now</button>
+          <button type='submit' className='btn'>Submit Now</button>
          </form>
          </div>
 

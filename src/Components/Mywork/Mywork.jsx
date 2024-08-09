@@ -29,7 +29,7 @@ const Mywork = () => {
         
         </div>
         <div className='showmore'>
-      <button className='btn-3'>Show More <img style={{width:'18px'}} src={arrow_icon}/></button>
+      <button className='btn'>Show More <img style={{width:'18px'}} src={arrow_icon}/></button>
       </div>
     </div>
   )
