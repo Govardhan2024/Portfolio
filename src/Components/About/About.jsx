@@ -3,7 +3,7 @@ import profile_img from '../../assets/Images/profile_img.svg'
 const About = () => {
   return (
     <div>
-        <h1 style={{textAlign:'center',padding:'20px', fontSize:'50px'}}>About Me</h1>
+        <h1 style={{textAlign:'center',paddingTop:'40px', fontSize:'50px'}}>About Me</h1>
     <div className='about'>
       <div className='About-title'>
       </div>

@@ -27,7 +27,7 @@ const Footer = () => {
             
             </div>
             <div>
-            <p style={{marginLeft:'300px',paddingTop:'40px'}}>© 2024 . All rights reserved.</p>
+            <p className='footer-para'>© 2024 . All rights reserved.</p>
             </div>
             <div style={{display:'flex',flexDirection:'row',marginLeft:'auto',marginRight:'20%',gap:'10px',}}>
               <div style={{width:'30px',height:'30px',borderRadius:'30px',backgroundColor:'white',gap:'10px',display:'flex',alignItems:'center',justifyContent:'center'}}><img src='../../assets/Images/Screen-Shot-2002.png'/></div>

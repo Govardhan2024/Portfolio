@@ -18,6 +18,8 @@
     background: linear-gradient(267deg,#DA7C25.36%,#B923E1);
     font-size: 20px;
     cursor: pointer;
+    border: none;
+    outline: none;
 }
 .btn:hover{
 transform: scale(1.05);
