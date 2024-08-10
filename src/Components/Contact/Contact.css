@@ -37,7 +37,7 @@ color: bisque;
 }
 
 .contact-right{
-    display: flex;
+    display: flex; 
     flex-direction: column;
     width: 100%;
     align-items: start;
