@@ -3,7 +3,7 @@ import './Hero.css'
 const Hero = () => {
   return (
     <div className='Hero'>
-        <img className='hero-img' src="../../../imges/Media.png"alt=''/>
+        <img className='hero-img' src="https://res.cloudinary.com/dmo8tti9k/image/upload/v1723445880/qnmy9ehi9ge82evmzriv.png"alt=''/>
         <h1><span>I am Vardhan,</span><br/>Front end Developer based in India.</h1>
         <p>I am a frontend developer from carrynow.</p>
         <div>

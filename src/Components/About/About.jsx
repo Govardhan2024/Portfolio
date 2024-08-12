@@ -9,7 +9,7 @@ const About = () => {
       </div>
       <div className='about-sections'>     
          <div className='about-left'>
-      <img className='img-hero' src='../../../imges/Media.png'/>
+      <img className='img-hero' src='https://res.cloudinary.com/dmo8tti9k/image/upload/v1723445880/qnmy9ehi9ge82evmzriv.png'/>
       </div>
       </div>
 
