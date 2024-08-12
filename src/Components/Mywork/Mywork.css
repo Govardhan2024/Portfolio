@@ -37,6 +37,11 @@ transform: scale(1.5);
     cursor: pointer;
     gap: 10px
 }
+.myworkpng{
+  height: 200px;
+  width: 400px;
+  border-radius: 10px;
+}
 .btn:hover{
     
     transform: scale(1.05);

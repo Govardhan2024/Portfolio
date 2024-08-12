@@ -1,5 +1,5 @@
 import   './Mywork.css'
-import mywork_data from './../../assets/Images/project_1-5xYOfh0z.svg'
+
 import arrow_icon from '../../assets/Images/arrow_icon.svg'
 const Mywork = () => {
   return (
@@ -7,24 +7,24 @@ const Mywork = () => {
         <h1 style={{textAlign:'center',fontSize:'50px',marginBottom:'20px'}}>My work Latest</h1>
         <div className='myworkcard2'>
         <div className='mywork-title'>
-        <img src={mywork_data} alt=''/>
+        <img  className='myworkpng' src='../../../imges/Screenshot 2024-08-12 111946.png' alt=''/>
         </div>
         <div className='mywork-title'>
-        <img src={mywork_data} alt=''/>
+        <img className='myworkpng' src='../../../imges/screenshopt2png 2.png' alt=''/>
         </div>
         <div className='mywork-title'>
-        <img src={mywork_data} alt=''/>
+        <img className='myworkpng' src='../../../imges/Screenshot 2024-08-12 112904img3.png' alt=''/>
         </div>
         </div>
         <div  className='myworkcard2'>
         <div className='mywork-title'>
-        <img src={mywork_data} alt=''/>
+        <img className='myworkpng' src='../../../imges/Screenshot 2024-08-12 1130004.png' alt=''/>
         </div>
         <div className='mywork-title'>
-        <img src={mywork_data} alt=''/>
+        <img className='myworkpng' src='../../../imges/Screenshot 2024-08-12 113239-7.png' alt=''/>
         </div>
         <div className='mywork-title'>
-        <img src={mywork_data} alt=''/>
+        <img className='myworkpng' src='../../../imges/Screenshot 2024-08-12 1130485.png' alt=''/>
         </div>
         
         </div>

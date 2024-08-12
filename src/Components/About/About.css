@@ -64,6 +64,11 @@
     transform: scale(1.05);
     transition: 0.3s;
 }
+.img-hero{
+  height:400px;
+  width: 400px;
+  border-radius: 80px;
+}
 
 @media (max-width: 768px) {
     .about {
@@ -91,6 +96,11 @@
   
     h1 {
       font-size: 30px;
+    }
+    .img-hero{
+     bottom: 0px 0px;
+      width: 100vw;
+      height: cover;
     }
   }
 

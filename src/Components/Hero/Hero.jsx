@@ -1,9 +1,9 @@
 import './Hero.css'
-import profile_img from '../../assets/Images/profile_img-3.svg'
+
 const Hero = () => {
   return (
     <div className='Hero'>
-        <img className='hero-img' src={profile_img}alt=''/>
+        <img className='hero-img' src="../../../imges/Media.png"alt=''/>
         <h1><span>I am Vardhan,</span><br/>Front end Developer based in India.</h1>
         <p>I am a frontend developer from carrynow.</p>
         <div>

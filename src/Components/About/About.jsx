@@ -1,5 +1,5 @@
 import './About.css'
-import profile_img from '../../assets/Images/profile_img.svg'
+
 const About = () => {
   return (
     <div>
@@ -9,7 +9,7 @@ const About = () => {
       </div>
       <div className='about-sections'>     
          <div className='about-left'>
-      <img src={profile_img}/>
+      <img className='img-hero' src='../../../imges/Media.png'/>
       </div>
       </div>
 
