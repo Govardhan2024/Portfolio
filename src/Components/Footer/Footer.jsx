@@ -35,7 +35,7 @@ const Footer = () => {
               <a href="//www.linkedin.com/in/govardhan-reddy-yallapureddy/"/>
                 <img src='../../assets/Images/Screen-Shot-2002.png'/></div>
               <div style={{width:'30px',height:'30px',borderRadius:'30px',backgroundColor:'white',gap:'10px'}}></div>
-              <a href="https://www.linkedin.com/in/govardhan-reddy-yallapureddy/"/>
+              <a href="https://www.facebook.com/goverdhanreddy.yellapureddy?mibextid=kFxxJD/"/>
               <div  style={{width:'30px',height:'30px',borderRadius:'30px',backgroundColor:'white',gap:'10px'}}></div>
             </div>
         </div>
